@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
+    background-color:#811524;
 }
 
 /* Estilos do Container */
@@ -17,7 +17,7 @@ body {
 
 /* Estilos do Cabeçalho */
 .cabecalho {
-    background-color: #4287f5;
+    background-color: #811524;
     color: white;
     text-align: center;
     padding: 2rem 0;
