@@ -24,6 +24,7 @@ body {
     margin-top: 0;
     width: 100%;
     border-radius:16px;
+    background-color: #811524;
 }
 
 .cabecalho h1 {
@@ -69,7 +70,7 @@ body {
 .formulario button {
     margin-top: 1rem;
     padding: 0.5rem 1rem;
-    background-color: #4287f5;
+    background-color: ;
     color: white;
     border: none;
     border-radius: 5px;
@@ -78,7 +79,7 @@ body {
 }
 
 .formulario button:hover {
-    background-color: #3165b3;
+    background-color: #F3C3CE;
 }
 
 /* Estilos da Lista de Modelos */
