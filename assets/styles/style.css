@@ -4,7 +4,6 @@ body {
     padding: 0;
     font-family: 'Borel', cursive;
     background-color:#811524;
-}
 
 /* Estilos do Container */
 .container {
@@ -17,7 +16,7 @@ body {
 
 /* Estilos do Cabeçalho */
 .cabecalho {
-    background-color: #F3C3CE;
+    
     color: white;
     text-align: center;
     padding: 2rem 0;
