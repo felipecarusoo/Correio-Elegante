@@ -1,8 +1,4 @@
-function preencherMensagem(sugestao) {
-    var mensagemCampo = document.getElementById("message");
-    var sugestaoTexto = sugestao.getAttribute("data-mensagem");
-    
-    if (mensagemCampo && sugestaoTexto) {
-        mensagemCampo.value = sugestaoTexto;
-    }
+function preencherMensagem(link) {
+    var mensagem = link.getAttribute("data-mensagem");
+    document.getElementById("mensagem").value = mensagem;
 }
