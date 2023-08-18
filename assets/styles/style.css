@@ -50,6 +50,7 @@ body {
 .grupo-formulario {
     width: 100%;
     margin-top: 1rem;
+    color: #811524;
 }
 
 .formulario label {
@@ -69,7 +70,7 @@ body {
 .formulario button {
     margin-top: 1rem;
     padding: 0.5rem 1rem;
-    background-color: #4287f5;
+    background-color: #811524;
     color: white;
     border: none;
     border-radius: 5px;
